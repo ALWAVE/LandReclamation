@@ -5,6 +5,7 @@ My educational project on land reclamation
 <p>1. Download Visual Studio 2022 </p>
 <p>2. Download SQL SERVER, SQL Server Management </p>
 <p>3. Started this project, and in class DBconnetion change next lines </p>
+## Change
 ```
  SqlConnection sqlConnection = new SqlConnection(@"Data Source = YOUR NAMES LOCAL PC; Initial Catalog = dbLand; Integrated Security = True");
 ```
