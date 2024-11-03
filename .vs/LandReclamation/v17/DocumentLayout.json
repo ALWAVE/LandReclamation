@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectVS\\LandReclamation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|d:\\projectvs\\landreclamation\\landreclamation\\accountinglandforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\accountinglandforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|d:\\projectvs\\landreclamation\\landreclamation\\accountinglandforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\accountinglandforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|d:\\projectvs\\landreclamation\\landreclamation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|d:\\projectvs\\landreclamation\\landreclamation\\leaveareviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\leaveareviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\vieworder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\vieworder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|d:\\projectvs\\landreclamation\\landreclamation\\leaveareviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\leaveareviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\vieworder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\vieworder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\authorization.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\authorization.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\authorization.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\authorization.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|D:\\ProjectVS\\LandReclamation\\landreclamation\\order.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED50E0-7868-4C50-8FBA-7CAB56FCABEB}|LandReclamation\\LandReclamation.csproj|solutionrelative:landreclamation\\order.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountingLandForms.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\AccountingLandForms.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\AccountingLandForms.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\AccountingLandForms.cs",
+              "RelativeToolTip": "LandReclamation\\AccountingLandForms.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:24:11.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountingLandForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\AccountingLandForms.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\AccountingLandForms.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\AccountingLandForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LandReclamation\\AccountingLandForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:11:03.449Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaveAReviewForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\LeaveAReviewForm.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\LeaveAReviewForm.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\LeaveAReviewForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LandReclamation\\LeaveAReviewForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:58:22.337Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Registration.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\Registration.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Registration.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LandReclamation\\Registration.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:11:20.955Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\packages.config",
+              "RelativeDocumentMoniker": "LandReclamation\\packages.config",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\packages.config",
+              "RelativeToolTip": "LandReclamation\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-30T19:15:59.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Order.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\Order.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Order.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LandReclamation\\Order.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:10:19.494Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Form1.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\Form1.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LandReclamation\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:29:08.045Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\ViewOrder.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\ViewOrder.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\ViewOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LandReclamation\\ViewOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:19:04.282Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Form1.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\Form1.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Form1.cs",
+              "RelativeToolTip": "LandReclamation\\Form1.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAA2wHsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:09:08.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeaveAReviewForm.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\LeaveAReviewForm.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\LeaveAReviewForm.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\LeaveAReviewForm.cs",
+              "RelativeToolTip": "LandReclamation\\LeaveAReviewForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:59:49.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\AdminPanel.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\AdminPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LandReclamation\\AdminPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:18:13.953Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Authorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Authorization.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\Authorization.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Authorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LandReclamation\\Authorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:11:55.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Worker.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Worker.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\Worker.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Worker.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LandReclamation\\Worker.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:12:49.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Authorization.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Authorization.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\Authorization.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Authorization.cs",
+              "RelativeToolTip": "LandReclamation\\Authorization.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwDMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:16:02.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Registration.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\Registration.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Registration.cs",
+              "RelativeToolTip": "LandReclamation\\Registration.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAqwHcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:09:57.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Order.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\Order.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Order.cs",
+              "RelativeToolTip": "LandReclamation\\Order.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAqwIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:56:11.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewOrder.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\ViewOrder.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\ViewOrder.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\ViewOrder.cs",
+              "RelativeToolTip": "LandReclamation\\ViewOrder.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:20:35.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Worker.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\Worker.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Worker.cs",
+              "RelativeToolTip": "LandReclamation\\Worker.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAWwEcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T00:01:39.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\AdminPanel.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\AdminPanel.cs",
+              "RelativeToolTip": "LandReclamation\\AdminPanel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:21:35.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\Form1.Designer.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Form1.Designer.cs",
+              "RelativeToolTip": "LandReclamation\\Form1.Designer.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:09:23.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Authorization.Designer.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Authorization.Designer.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\Authorization.Designer.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Authorization.Designer.cs",
+              "RelativeToolTip": "LandReclamation\\Authorization.Designer.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAWwEYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:16:06.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Authorization.resx",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Authorization.resx",
+              "RelativeDocumentMoniker": "LandReclamation\\Authorization.resx",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Authorization.resx",
+              "RelativeToolTip": "LandReclamation\\Authorization.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-20T19:56:16.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DBconnection.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\DBconnection.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\DBconnection.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\DBconnection.cs",
+              "RelativeToolTip": "LandReclamation\\DBconnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:06:11.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Program.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\Program.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Program.cs",
+              "RelativeToolTip": "LandReclamation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:14:44.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.Designer.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Order.Designer.cs",
+              "RelativeDocumentMoniker": "LandReclamation\\Order.Designer.cs",
+              "ToolTip": "D:\\ProjectVS\\LandReclamation\\LandReclamation\\Order.Designer.cs",
+              "RelativeToolTip": "LandReclamation\\Order.Designer.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAgwMUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:38:10.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
