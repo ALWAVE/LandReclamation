@@ -1,0 +1,35 @@
+use dbLand;
+
+drop table Users;
+
+create table Users(
+id_users int PRIMARY KEY IDENTITY(1,1) not null,
+userlogin VARCHAR (50),
+username VARCHAR(50),
+surname VARCHAR(50),
+user_role VARCHAR (50),
+user_password VARCHAR(100),
+)
+
+select * from Users;
+INSERT INTO Users (userlogin, username, surname, user_role, user_password) VALUES ('admin', 'admin', 'admin', 'Администратор', 'admin');
+
+create table LandReclamation(
+id_land int PRIMARY KEY IDENTITY(1,1) not null,
+organization_name VARCHAR(50),
+adress VARCHAR(100),
+city VARCHAR(100),
+additionalImprovedField VARCHAR(100),
+additionalWeedingField VARCHAR(100),
+size VARCHAR(50),S
+price BIGINT,
+id_belongs INT,
+create_data datetime,
+land_status VARCHAR(50),
+FOREIGN KEY (id_belongs) REFERENCES Users(id_users)
+)
+
+drop table LandReclamation;
+
+select * from LandReclamation;
+insert into LandReclamation (land_name, adress, price) VALUES  ('Поле 1', 'Ул. Пушкина', 500000);
