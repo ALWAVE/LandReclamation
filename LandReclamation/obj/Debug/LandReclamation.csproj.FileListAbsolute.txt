@@ -24,3 +24,4 @@ D:\ProjectVS\LandReclamation\LandReclamation\obj\Debug\LandRecl.37C6DCCA.Up2Date
 D:\ProjectVS\LandReclamation\LandReclamation\obj\Debug\LandReclamation.AdminPanel.resources
 D:\ProjectVS\LandReclamation\LandReclamation\obj\Debug\LandReclamation.ViewOrder.resources
 D:\ProjectVS\LandReclamation\LandReclamation\obj\Debug\LandReclamation.LeaveAReviewForm.resources
+D:\ProjectVS\LandReclamation\LandReclamation\obj\Debug\LandReclamation.AccountingLandForms.resources
