@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LandReclamation.Forms.AdminForms;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -65,6 +66,8 @@ namespace LandReclamation
                             button3.Visible = true;
                             button2.Visible = false;
                             button4.Visible = false;
+                            button7.Visible = false;
+                          
                             MessageBox.Show("Вы зашли как Пользователь", "Успеx", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         }
                         else if (userRole == "Работник")
@@ -73,6 +76,8 @@ namespace LandReclamation
                             button3.Visible = false;
                             button2.Visible = true;
                             button4.Visible = false;
+                            button7.Visible = false;
+                            button5.Visible = false;
                             MessageBox.Show("Вы зашли как Работник", "Успеx", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         }
                         else if (userRole == "admin")
@@ -122,8 +127,14 @@ namespace LandReclamation
 
         private void button5_Click(object sender, EventArgs e)
         {
-            LeaveAReviewForm leaveAReviewForm = new LeaveAReviewForm();
+            LeaveAReviewForm leaveAReviewForm = new LeaveAReviewForm(userid.Text);
             leaveAReviewForm.Show();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            FeedbackForm feedbackForm = new FeedbackForm();
+            feedbackForm.Show();
         }
     }
 }

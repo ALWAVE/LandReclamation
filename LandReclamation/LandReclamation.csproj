@@ -65,6 +65,12 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Forms\AdminForms\FeedbackForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForms\FeedbackForm.Designer.cs">
+      <DependentUpon>FeedbackForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\WorkerForms\AccountingLandForms.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -122,6 +128,9 @@
     <Compile Include="Forms\WorkerForms\Worker.Designer.cs">
       <DependentUpon>Worker.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Forms\AdminForms\FeedbackForm.resx">
+      <DependentUpon>FeedbackForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\WorkerForms\AccountingLandForms.resx">
       <DependentUpon>AccountingLandForms.cs</DependentUpon>
     </EmbeddedResource>

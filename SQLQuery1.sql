@@ -52,9 +52,17 @@ comments_AccLand VARCHAR(256) null,
 id_owner int,
 FOREIGN KEY (id_owner) REFERENCES Users(id_users) ON DELETE CASCADE
 );
+drop table UserRating;
+create table UserRating(
+id_UserRating int primary key identity (1,1) not null,
+mark_Users int,
+comment_Users VARCHAR(256),
+addressedTo VARCHAR(98) null,
+id_User int,
+foreign key (id_User) REFERENCES Users(id_users)
+);
 
-
-
+select * from UserRating;
 drop table LandReclamation;
 
 select * from LandReclamation;

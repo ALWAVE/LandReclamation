@@ -25,3 +25,4 @@ D:\ProjectVS\LandReclamation\LandReclamation\obj\Debug\LandReclamation.AdminPane
 D:\ProjectVS\LandReclamation\LandReclamation\obj\Debug\LandReclamation.ViewOrder.resources
 D:\ProjectVS\LandReclamation\LandReclamation\obj\Debug\LandReclamation.LeaveAReviewForm.resources
 D:\ProjectVS\LandReclamation\LandReclamation\obj\Debug\LandReclamation.AccountingLandForms.resources
+D:\ProjectVS\LandReclamation\LandReclamation\obj\Debug\LandReclamation.Forms.AdminForms.FeedbackForm.resources

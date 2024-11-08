@@ -191,5 +191,10 @@ namespace LandReclamation
             }
 
         }
+
+        private void ViewOrder_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
